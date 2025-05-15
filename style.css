@@ -208,6 +208,10 @@
             box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
         }
 
+        .cta-button a {
+            color: #FFFFFF;
+        }
+
         .cta-button:hover {
             background-color: #2980b9;
             transform: translateY(-3px);
